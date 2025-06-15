@@ -1,4 +1,4 @@
-# Project 1: Hybrid Cloud Integration
+# Project: Hybrid Cloud Integration
 
 ## Overview
 
